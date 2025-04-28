@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+
 </head>
 <body>
 
-<h1>📄 Website Visitors Data Analytics Dashboard - Detailed README</h1>
+<h1>📄 Website Visitors Data Analytics Dashboard</h1>
 
 <hr>
 
@@ -27,7 +28,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 <hr>
 
 <h2>📊 Key KPIs Used:</h2>
-
 <table border="1" cellpadding="5" cellspacing="0">
   <tr><th>KPI</th><th>Meaning</th></tr>
   <tr><td>CPA (Cost per Acquisition)</td><td>Average cost to acquire one customer</td></tr>
@@ -62,7 +62,7 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 </ul>
 
 <b>Screenshot:</b><br>
-<a href="https://drive.google.com/file/d/1CSLtVOU6EHgltOkbZD8mek0-kiZ2Umyl/view?usp=sharing" target="_blank">🔗 View Revenue Dashboard Screenshot</a>
+<img src="https://drive.google.com/uc?export=view&id=1CSLtVOU6EHgltOkbZD8mek0-kiZ2Umyl" alt="Revenue Dashboard" width="800">
 
 <hr>
 
@@ -81,7 +81,7 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 </ul>
 
 <b>Screenshot:</b><br>
-<a href="https://drive.google.com/file/d/1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4/view?usp=sharing" target="_blank">🔗 View Campaign Analysis Dashboard Screenshot</a>
+<img src="https://drive.google.com/uc?export=view&id=1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4" alt="Campaign Analysis Dashboard" width="800">
 
 <hr>
 
@@ -98,7 +98,7 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 </ul>
 
 <b>Screenshot:</b><br>
-<a href="https://drive.google.com/file/d/1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4/view?usp=sharing" target="_blank">🔗 View Time-Based Analysis Dashboard Screenshot</a>
+<img src="https://drive.google.com/uc?export=view&id=1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4" alt="Time Based Analysis Dashboard" width="800">
 
 <hr>
 
@@ -129,8 +129,29 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 
 <hr>
 
+<h2>🔍 Findings:</h2>
+<ul>
+  <li>LinkedIn generated the highest number of high-value deals ($25,000+).</li>
+  <li>Google campaigns had the best ROAS among all platforms.</li>
+  <li>Facebook had the highest number of clicks but comparatively lower conversion rates.</li>
+  <li>Most conversions and high-ticket deals happened within 5 to 10 days of initial visit.</li>
+</ul>
+
+<hr>
+
+<h2>✅ Recommendations:</h2>
+<ul>
+  <li>Increase budget allocation towards Google and LinkedIn campaigns with higher ROAS and High-Value Deal closure rates.</li>
+  <li>Optimize Facebook ads for better targeting to improve conversion rates.</li>
+  <li>Focus future campaigns around the time frames where highest conversions occur (5-10 days after first interaction).</li>
+  <li>Design specific high-ticket oriented campaigns targeting LinkedIn audiences.</li>
+</ul>
+
+<hr>
+
 <h2>🧾 Project Completion:</h2>
 <p><b>Prepared By:</b> Amit Yadav<br><b>Date:</b> April 28, 2025</p>
 
 </body>
 </html>
+
