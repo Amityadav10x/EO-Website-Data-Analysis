@@ -81,7 +81,7 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 </ul>
 
 <b>Screenshot:</b><br>
-<img src="https://drive.google.com/uc?export=view&id=1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4" alt="Campaign Analysis Dashboard" width="800">
+<img src="https://drive.google.com/file/d/1tJeDwNIqdEqW7eF4965gntATgA2Yf78T/view?usp=sharing" alt="Campaign Analysis Dashboard" width="800">
 
 <hr>
 
