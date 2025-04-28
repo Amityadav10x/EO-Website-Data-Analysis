@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
 </head>
 <body>
 
@@ -14,8 +15,6 @@
 <p>This project visualizes the full journey of website visitors generated from paid advertising campaigns across <b>Google Ads</b>, <b>Facebook Ads</b>, and <b>LinkedIn Ads</b>.<br>
 The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campaign efficiency</b>, and <b>high-ticket deal analysis ($25,000+)</b>.</p>
 
-<hr>
-
 <h2>🎯 Project Objectives:</h2>
 <ul>
   <li>Track and measure ad performance across platforms.</li>
@@ -24,8 +23,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <li>Measure key performance metrics: ROAS, CPA, CPC, CTR, CPL.</li>
   <li>Identify time-based conversion trends and platform performance.</li>
 </ul>
-
-<hr>
 
 <h2>📊 Key KPIs Used:</h2>
 <table border="1" cellpadding="5" cellspacing="0">
@@ -42,8 +39,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <tr><td>Total Revenue</td><td>Total revenue generated</td></tr>
   <tr><td>Conversion Time Metrics</td><td>Avg and Max time to convert</td></tr>
 </table>
-
-<hr>
 
 <h2>📊 Dashboard Sections:</h2>
 
@@ -64,8 +59,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 <b>Screenshot:</b><br>
 <img src="https://drive.google.com/uc?export=view&id=1CSLtVOU6EHgltOkbZD8mek0-kiZ2Umyl" alt="Revenue Dashboard" width="800">
 
-<hr>
-
 <h3>⭐ 2. Campaign-Level Analysis</h3>
 <p><b>Purpose:</b> Analyze campaign-level performance based on cost, clicks, conversions, ROAS, and high-value deals generated.</p>
 
@@ -81,9 +74,8 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 </ul>
 
 <b>Screenshot:</b><br>
-<img src="https://drive.google.com/file/d/1tJeDwNIqdEqW7eF4965gntATgA2Yf78T/view?usp=sharing" alt="Campaign Analysis Dashboard" width="800">
+<img src="https://drive.google.com/uc?export=view&id=1tJeDwNIqdEqW7eF4965gntATgA2Yf78T" alt="Campaign Analysis Dashboard" width="800">
 
-<hr>
 
 <h3>⭐ 3. Time-Based Analysis</h3>
 <p><b>Purpose:</b> Understand monthly trends for visitor activity, conversions, high-value deals, and revenue generation.</p>
@@ -100,8 +92,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
 <b>Screenshot:</b><br>
 <img src="https://drive.google.com/uc?export=view&id=1gb83ZroCf9AE8cVgkmpP-SlI5jIkUnl4" alt="Time Based Analysis Dashboard" width="800">
 
-<hr>
-
 <h2>🎛 Filters and Slicers Used:</h2>
 <ul>
   <li>Platform (Google, Facebook, LinkedIn)</li>
@@ -111,8 +101,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <li>Year-Month Selection</li>
   <li>Conversion Type (Signup, Demo Booked, Purchase)</li>
 </ul>
-
-<hr>
 
 <h2>📈 Final Deliverables:</h2>
 <ul>
@@ -127,8 +115,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <li>Drilldown filters for flexible exploration</li>
 </ul>
 
-<hr>
-
 <h2>🔍 Findings:</h2>
 <ul>
   <li>LinkedIn generated the highest number of high-value deals ($25,000+).</li>
@@ -136,8 +122,6 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <li>Facebook had the highest number of clicks but comparatively lower conversion rates.</li>
   <li>Most conversions and high-ticket deals happened within 5 to 10 days of initial visit.</li>
 </ul>
-
-<hr>
 
 <h2>✅ Recommendations:</h2>
 <ul>
@@ -147,10 +131,12 @@ The focus is on <b>visitor engagement</b>, <b>conversion tracking</b>, <b>campai
   <li>Design specific high-ticket oriented campaigns targeting LinkedIn audiences.</li>
 </ul>
 
-<hr>
-
 <h2>🧾 Project Completion:</h2>
-<p><b>Prepared By:</b> Amit Yadav<br><b>Date:</b> April 28, 2025</p>
+<p><b>Prepared By:</b> Amit Yadav<br><b>Date:</b> April 28, 2025</p>  
+
+</body>
+</html>
+
 
 </body>
 </html>
